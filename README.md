@@ -6,3 +6,5 @@ Uma versão de teste pode ser usada instalando:
 
 npm i physics-is-cool
 
+Espero que gostem! :)
+
